@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <application display_value="App_9NovA">2650ef32eb230200db776e210206fe93</application>
         <filter/>
         <name>App_9NovA Table</name>
